@@ -1,1 +1,25 @@
-h1 { color: red;} ddsmkgölçş.
+
+p {
+    color: aqua;
+    font-size: 20px;
+}
+body {
+    background-color:#23242C;
+}
+.firstdiv {
+    color: yellow;
+    border: 6px outset red;
+    text-align: center;
+    font-size: 20px;
+    border-bottom-width: 20px;
+}
+.seconddiv{
+    color: purple;
+    border: 3px outset gold;
+    text-align: left;
+    font-size: 15;
+    border-bottom-width: 7px;
+    border-radius: 10px;
+    border-end-end-radius: 70px ;
+    border-end-start-radius: 60px;
+}
