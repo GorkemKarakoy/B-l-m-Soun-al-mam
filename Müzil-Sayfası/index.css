@@ -1,0 +1,68 @@
+h1,h2,h3 {
+    text-transform: capitalize;
+    
+    
+}
+.yellow {
+    color: yellow;
+}
+body {
+    background-color:#202124;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+p {
+    text-transform: inherit;
+    
+}
+.text {
+    text-align: center;
+}
+body {
+    color: white;
+}
+h3 {
+    color:chocolate
+}
+ul {
+    list-style-position: inside;
+    color: green;
+}
+.red {
+    color: red;
+}
+.purple {
+    color: purple;
+}
+.black {
+    color: #000000;
+}
+.green{
+    color: green;
+}
+.blue {
+    color: #e5890a;
+}
+.orange {
+    color: orangered;
+}
+.brown {
+    color: brown;
+}
+
+.white {
+    color: white;
+}
+.beidge {
+    color: #e6ba95;
+}
+.lightbrown {
+    color: #cc9544;
+}
+.silver {
+    color: #dfdfde;
+}
+.bej {
+    color: #ecb390;
+}
