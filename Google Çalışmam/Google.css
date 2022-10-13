@@ -94,10 +94,6 @@ center {
     margin-top: -1px;
 }
 
-.text-size{
-
-}
-
 .button {
     padding: 1px 6px;
 }
@@ -108,7 +104,29 @@ center {
     background-color:#7EE5DA ;
    width: 33%;
    margin-left: 68px;
-   margin-top: 43px;
+   margin-top: 62px;
+}
+
+
+.ikinci{
+    background-color: #70CCC2 ;
+    width: 229px;
+    height: 70px;
+    margin-top: -76px;
+    margin-left: 502px;
+    padding-top: 6px;
+    float: left;
+}
+
+
+
+.üçüncü{
+    background-color: #62B3AA;
+    width: 509px;
+    height: 75px;
+    margin-top: -76px;
+    margin-left: 733px;
+    padding-top: 1px;
 }
 
 .clear{
@@ -116,9 +134,19 @@ center {
 }
 
 
-.mavi-koyu{
-    background: #70CCC2;
-    float: left;
+.last{
+    margin-left: 576px;
+    margin-top: 16px;
+}
+
+
+
+.mr{
+    margin-right: 3px;
+}
+
+.ml{
+    margin-left: 6px;
 }
 
 .mt-new{
@@ -127,4 +155,18 @@ center {
 
 .padding{
     padding: 11px;
+}
+
+
+
+table{
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    border-spacing: 2px;
+    font-variant: normal;
 }
