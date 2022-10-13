@@ -1,0 +1,130 @@
+body {
+    background-color: #ffffff;
+}
+
+.text {
+    text-align:center;
+}
+
+.red {
+    color: red;
+}
+.purple {
+    color: purple;
+}
+.black {
+    color: #000000;
+}
+.green{
+    color: green;
+}
+.blue {
+    color: #e5890a;
+}
+.orange {
+    color: orangered;
+}
+.brown {
+    color: brown;
+}
+
+.white {
+    color: white;
+}
+.beidge {
+    color: #e6ba95;
+}
+.lightbrown {
+    color: #cc9544;
+}
+.silver {
+    color: #dfdfde;
+}
+.bej {
+    color: #ecb390;
+}
+.darkbrown {
+   color: #61481c;
+}
+.dbrown {
+    color: #1c0a00;
+}
+.darkgray {
+    color: #a2b5bb;
+}
+.darkred {
+    color: #990000;
+}
+.lightyellow {
+    color: #fff200b9;
+}
+.bred {
+  color: #c21010 ;  
+}
+.pbrown {
+    color: #361500;
+}
+.bgray {
+    color: #413c42;
+}
+.tgrey {
+    color: #151515;
+}
+.rred {
+    color: #990000;
+}
+
+.blue-y{
+    color: #0000EE;
+}
+
+.bg-gray{
+    background-color: #EEEEEE;
+}
+center {
+    display: block;
+    text-align: center;
+}
+.size {
+    font-size: medium;
+    height: 60px;
+    width: 1175px;
+    margin-left:    67px;
+    float: left;
+    margin-top: -1px;
+}
+
+.text-size{
+
+}
+
+.button {
+    padding: 1px 6px;
+}
+
+
+
+.renk{
+    background-color:#7EE5DA ;
+   width: 33%;
+   margin-left: 68px;
+   margin-top: 43px;
+}
+
+.clear{
+    clear: both;
+}
+
+
+.mavi-koyu{
+    background: #70CCC2;
+    float: left;
+}
+
+.mt-new{
+    margin-top: px;
+}
+
+.padding{
+    padding: 11px;
+}
