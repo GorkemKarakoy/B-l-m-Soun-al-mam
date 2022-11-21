@@ -4,10 +4,10 @@ h1,h2,h3 {
     
 }
 .yellow {
-    color: yellow;
+    color: rgb(49, 49, 49);
 }
 body {
-    background-color:#202124;
+    background-color : pink;
     font-family: 'Roboto Condensed', sans-serif;
 }
 
